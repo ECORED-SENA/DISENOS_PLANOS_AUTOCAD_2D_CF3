@@ -1,8 +1,8 @@
-# **sena-base-2021 v4.0.0**
+# **Planos 2D con especificaciones de dibujo técnico**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-2021](https://ecored-sena.github.io/ECORED-BASE-2021)
+[https://ecored-sena.github.io/DISENOS_PLANOS_AUTOCAD_2D_CF2/](https://ecored-sena.github.io/DISENOS_PLANOS_AUTOCAD_2D_CF2/)
 
 #
 
