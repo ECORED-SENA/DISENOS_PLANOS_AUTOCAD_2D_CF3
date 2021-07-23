@@ -11,7 +11,8 @@
     
     .row.justify-content-center.align-items-center.mt-5
       .col-12.col-lg-6.mb-5
-
+        br
+        br
 
         p.mb-3 AutoCAD cuenta con un espacio dedicado a la elaboración de planos de ingeniería y arquitectura. Los planos son dibujos a escala desde herramientas CAD que permiten tener un diseño previo a la hora de la construcción y las especificaciones del espacio. Los planos se utilizan cuando se fabrica por primera vez o al reutilizar partes individuales del diseño para otros productos diferentes lo que reduce considerablemente el tiempo de desarrollos. 
 

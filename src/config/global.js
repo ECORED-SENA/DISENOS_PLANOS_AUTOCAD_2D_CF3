@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Planos 2D con especificaciones de dibujo técnico',
     descripcionCurso:
-      'Uno de los resultados del proceso de diseño y quizás el más importante es la generación de planos, este componente formativo describe los requisitos y características técnicas para obtener la correcta elaboración de este documento de ingeniería o arquitectura para la posible presentación de este.',
+      'Uno de los resultados del proceso de diseño y quizás el más importante es la generación de planos, este componente formativo describe los requisitos y características técnicas para obtener la correcta elaboración de este documento de ingeniería o arquitectura.',
     imagenBannerPrincipal: require('@/assets/curso/images/header/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/images/header/fondo-banner-principal.png'),
   },
@@ -74,12 +74,12 @@ export default {
       },
     ],
     subMenu: [
-      {
-        nombreRuta: 'actividad',
-        icono: 'far fa-question-circle',
-        titulo: 'Actividad didáctica',
-        desarrolloContenidos: true,
-      },
+      //{
+      //  nombreRuta: 'actividad',
+      //  icono: 'far fa-question-circle',
+      //   titulo: 'Actividad didáctica',
+      //  desarrolloContenidos: true,
+      //},
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -153,7 +153,7 @@ export default {
       referencia:
         'Autodesk (2020) AutoCAD Soporte y aprendizaje: Acerca de la vinculación de una tabla a datos externos',
       link:
-        'https://knowledge.autodesk.com/es/support/autocad/learn-explore/caas/CloudHelp/cloudhelp/2021/ESP/AutoCAD-Core/files/GUID-3A038CCF-A659-4E8A-AE6E-1D88D00D3A23-htm.html,',
+        'https://knowledge.autodesk.com/es/support/autocad/learn-explore/caas/CloudHelp/cloudhelp/2021/ESP/AutoCAD-Core/files/GUID-3A038CCF-A659-4E8A-AE6E-1D88D00D3A23-htm.html',
     },
     {
       referencia:
@@ -207,7 +207,7 @@ export default {
       texto:
         'Autodesk (2020) AutoCAD Soporte y aprendizaje: Acerca de la vinculación de una tabla a datos externos ',
       tipo: 'Página web',
-      descarga:
+      link:
         'https://knowledge.autodesk.com/es/support/autocad/learn-explore/caas/CloudHelp/cloudhelp/2021/ESP/AutoCAD-Core/files/GUID-3A038CCF-A659-4E8A-AE6E-1D88D00D3A23-htm.html',
     },
     {
@@ -221,13 +221,13 @@ export default {
       texto:
         'Autodesk (2020) AutoCAD Soporte y aprendizaje: ¿Ha probado?: Creación de tablas',
       tipo: 'Página web',
-      descarga:
+      link:
         'https://knowledge.autodesk.com/es/support/autocad/learn-explore/caas/CloudHelp/cloudhelp/2018/ESP/AutoCAD-DidYouKnow/files/GUID-AC405227-E1E4-4845-8DDB-B6B207D3C484-htm.html',
     },
     {
       texto: 'Saúl Santamaría Gutiérrez (2020).',
       tipo: 'ZIP',
-      link: 'Base inmobiliaria (Material complementario)',
+      descarga: 'Base inmobiliaria (Material complementario)',
     },
   ],
   creditos: {
@@ -252,19 +252,19 @@ export default {
           'Centro de Mercados, Logística y Tecnologías de la Información – Regional Distrito Capital.',
       },
       {
-        nombre: 'Oscar Absalón Guevara',
+        nombre: 'Oscar Absalón Guevaras',
         cargo: 'Diseñador instruccional',
         centro: 'Centro de Gestión Industrial – Regional Distrito Capital',
       },
       {
-        nombre: 'Zvi Daniel Grosman Landáez',
+        nombre: 'Luz Aída Quintero Velásquez',
         cargo: 'Diseñador instruccional',
-        centro: 'Centro Agropecuario La Granja Espinal - Tolima',
+        centro: 'Centro de Gestión Industrial – Regional Distrito Capital',
       },
       {
-        nombre: 'Uriel Darío González Montoya',
-        cargo: 'Acompañamiento pedagógico',
-        centro: 'Regional Tolima – Centro Agropecuario La Granja',
+        nombre: 'Zvi Grosman',
+        cargo: 'Diseñador instruccional',
+        centro: 'Centro Agropecuario la Granja – Regional Tolima',
       },
     ],
     desarrolloProducto: [
@@ -286,19 +286,38 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
+        nombre: 'Zuleidy María Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
+        nombre: 'Ricardo Vásquez Arroyave',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
+        nombre: 'Camilo Villamizar Lizcano',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
         nombre: 'Gustavo Adolfo Marún Suárez',
         cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Nombre',
+        nombre: 'Yenny Patricia Ulloa Villamizar',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
