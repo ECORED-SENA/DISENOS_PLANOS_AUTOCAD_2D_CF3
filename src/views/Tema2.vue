@@ -56,7 +56,7 @@
       .col-10
         figure.mb-3
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/2_ESyrIpy3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     p.mb-5 Con el fin de reforzar el uso y aplicación del comando se recomienda ver el siguiente video tutorial donde se explica la creación de estilos de texto: 
 
@@ -64,7 +64,7 @@
       .col-10
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/lQZ0VGbvhNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     Separador 
 
@@ -79,7 +79,7 @@
         .col-10
           figure.mb-5
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/BD5pqPy62Ws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     Separador 
     #t_2_3.titulo-segundo
       .h4 2.3  Estilos y tipos de cotas
@@ -218,15 +218,17 @@
       .col-10 
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2cnKTwQ85fg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/3nClgDS3KqQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            
     p.mb-5 Con el fin de reforzar el uso y aplicación ver el siguiente video tutorial donde se explican los estilos y tipos de cotas: 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10 
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2cnKTwQ85fg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/WdsBaFcRqaw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+            
     Separador 
     #t_2_4.titulo-segundo
       .h4 2.4 Directriz de anotación
@@ -249,7 +251,7 @@
       .col-10 
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2cnKTwQ85fg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/z2hHVTaGYvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     Separador 
     #t_2_5.titulo-segundo
       .h4 2.5 Tablas de anotación
@@ -294,7 +296,7 @@
       .col-10 
         figure.mb-5
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2cnKTwQ85fg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/QnRYBeFF8rw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </template>
 
