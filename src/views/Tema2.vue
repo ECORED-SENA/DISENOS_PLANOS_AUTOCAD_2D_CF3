@@ -218,7 +218,8 @@
       .col-10 
         figure.mb-5
           .video
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/3nClgDS3KqQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/WdsBaFcRqaw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            
             
     p.mb-5 Con el fin de reforzar el uso y aplicación ver el siguiente video tutorial donde se explican los estilos y tipos de cotas: 
 
@@ -226,8 +227,7 @@
       .col-10 
         figure.mb-5
           .video
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/WdsBaFcRqaw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/3nClgDS3KqQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             
     Separador 
     #t_2_4.titulo-segundo
