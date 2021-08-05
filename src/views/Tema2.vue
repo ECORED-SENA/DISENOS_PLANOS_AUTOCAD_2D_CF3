@@ -153,7 +153,7 @@
 
       .row(titulo="Cotas por coordenadas")
         .col-md-6.mb-4.mb-md-0
-          p Las cotas por coordenadas miden las distancias perpendiculares desde un punto de origen denominado punto de referencia como, por ejemplo, el agujero de una pieza. La acotación por coordenadas evita los errores de escala, al mantener desfases exactos de los objetos con respecto al punto de referencia.
+          p Las cotas por coordenadas miden las distancias perpendiculares desde un punto de origen denominado punto de referencia como por ejemplo, el agujero de una pieza. La acotación por coordenadas evita los errores de escala, al mantener desfases exactos de los objetos con respecto al punto de referencia.
           .cajon.color-primario.p-4.mb-4  
             p Importante: El punto de referencia se establece mediante la ubicación actual del origen del SCP.
         .col-md-6
@@ -233,7 +233,7 @@
     #t_2_4.titulo-segundo
       .h4 2.4 Directriz de anotación
 
-    p.mb-3 Según Autodesk (2019) los objetos de directriz son líneas o splines con un extremo de cota en un lado y un objeto de texto o bloque de líneas múltiples en el otro, pero en algunos casos, una pequeña línea horizontal, denominada segmento de conexión, conecta texto o bloques y cuadros de control de características a la línea de directriz.
+    p.mb-3 Según Autodesk (2019) los objetos de directriz son líneas o <i>splines</i> con un extremo de cota en un lado y un objeto de texto o bloque de líneas múltiples en el otro, pero en algunos casos, una pequeña línea horizontal, denominada segmento de conexión, conecta texto o bloques y cuadros de control de características a la línea de directriz.
 
     p.mb-5 El segmento de conexión y la línea de directriz están asociados con el objeto de texto o con el bloque de líneas múltiples, de modo que cuando el segmento de conexión se vuelve a colocar, el contenido y la línea de directriz se desplazan con él.
 

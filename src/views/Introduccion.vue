@@ -14,9 +14,9 @@
         br
         br
 
-        p.mb-3 AutoCAD cuenta con un espacio dedicado a la elaboración de planos de ingeniería y arquitectura. Los planos son dibujos a escala desde herramientas CAD que permiten tener un diseño previo a la hora de la construcción y las especificaciones del espacio. Los planos se utilizan cuando se fabrica por primera vez o al reutilizar partes individuales del diseño para otros productos diferentes lo que reduce considerablemente el tiempo de desarrollos. 
+        p.mb-3 AutoCAD cuenta con un espacio dedicado a la elaboración de planos de ingeniería y arquitectura. Los planos son dibujos a escala desde herramientas CAD que permiten tener un diseño previo a la hora de la construcción y las especificaciones del espacio. Los planos se utilizan cuando se fabrica por primera vez o al reutilizar partes individuales del diseño para otros productos diferentes lo que reduce considerablemente el tiempo de desarrollo. 
 
-        p.mb-3  Los planos dicen todo lo que necesita saber sobre los detalles de diseño y fabricación, como ajustes, tolerancias, trazados, longitudes… requeridos en la presentación o layout donde se establecerán las medidas, vistas y datos de salida del software, en manera impresa o digital.
+        p.mb-3  Los planos dicen todo lo que necesita saber sobre los detalles de diseño y fabricación, como ajustes, tolerancias, trazados, longitudes… requeridos en la presentación o layout donde se establecerán las medidas, vistas y datos de salida del <i>software</i> en manera impresa o digital.
 
 
       .col-12.col-lg-6

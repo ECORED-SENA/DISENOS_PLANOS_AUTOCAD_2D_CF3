@@ -198,7 +198,7 @@ export default {
   complementario: [
     {
       texto:
-        'Autodesk (2019) AutoCAD Soporte y aprendizaje: Acerca de la creación de directrices”',
+        'Autodesk (2019) AutoCAD Soporte y aprendizaje: Acerca de la creación de directrices',
       tipo: 'Página Web',
       link:
         'https://knowledge.autodesk.com/es/support/autocad/learn-explore/caas/CloudHelp/cloudhelp/2018/ESP/AutoCAD-Core/files/GUID-8E2FF7CD-1DF9-49F8-AA10-A614C7E63F68-htm.html',
@@ -227,7 +227,7 @@ export default {
     {
       texto: 'Saúl Santamaría Gutiérrez (2020).',
       tipo: 'ZIP',
-      descarga: 'Base inmobiliaria (Material complementario)',
+      descarga: 'downloads/Base_inmobiliaria.zip',
     },
   ],
   creditos: {
